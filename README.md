@@ -5,9 +5,10 @@
 Professor Zev Steinrock at UIUC came to me requesting a simple solution to a visual tool he's incorporated when teaching his students the basics of stage combat with blades. Prof. Steinrock used hand cut cardboard arrows that would be skewered on the blades so the arrows would point towards the blade edge. Because of the time and material waste inherent in the creation of the cardboard arrows, he asked if I could come up with a simpler solution. Through basic iteration, I modeled a 3d printed arrow that contains a small rectangular window in the center and a screwdown clamp to keep a gripping medium in place. For the gripping medium, I've been using small rectangular cuts of neoprene yoga mats, though I am also trying out high friction rubber, and of course regular cardboard could be used as well. When the gripping medium wears out, it is easy to replace with another small rectangular piece. When using the neoprene and rubber, I recommend pre-punching screw holes to keep the material from jamming in the threads of the nuts.
 
 ### Included files:
-- Full drawings of model and assembly | Combat Arrow v2.pdf
-- Fusion360 Model | Combat Arrow Assembly v9.f3z
-- 3d Models for printing | Arrow Body.3mf and Clamp.3mf
+- README | README.md
+- Full drawings of model and assembly | [Combat Arrow v2.pdf](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b33ad56709a9fc461572b4b7754411686f48d95c/Combat%20Arrow%20v2.pdf)
+- Fusion360 Model | [Combat Arrow Assembly v9.f3z](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b33ad56709a9fc461572b4b7754411686f48d95c/Combat%20Arrow%20Assembly%20v9.f3z)
+- 3d Models for printing | [Arrow Body.3mf](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b33ad56709a9fc461572b4b7754411686f48d95c/Arrow%20Body.3mf) and [Clamp.3mf](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b33ad56709a9fc461572b4b7754411686f48d95c/Clamp.3mf)
 - *insert example picture files*
 
 ### Materials needed (per unit made):
