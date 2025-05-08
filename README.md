@@ -5,9 +5,9 @@
 Professor Zev Steinrock at UIUC came to me requesting a simple solution to a visual tool he's incorporated when teaching his students the basics of stage combat with blades. Prof. Steinrock used hand cut cardboard arrows that would be skewered on the blades so the arrows would point towards the blade edge. Because of the time and material waste inherent in the creation of the cardboard arrows, he asked if I could come up with a simpler solution. Through basic iteration, I modeled a 3d printed arrow that contains a small rectangular window in the center and a screwdown clamp to keep a gripping medium in place. For the gripping medium, I've been using small rectangular cuts of neoprene yoga mats, though I am also trying out high friction rubber, and of course regular cardboard could be used as well. When the gripping medium wears out, it is easy to replace with another small rectangular piece. When using the neoprene and rubber, I recommend pre-punching screw holes to keep the material from jamming in the threads of the nuts.
 
 ### Included files:
-- *insert .svg name*
-- *insert .pdf name*
-- *insert fusion file name*
+- Full drawings of model and assembly | Combat Arrow v2.pdf
+- Fusion360 Model | Combat Arrow Assembly v9.f3z
+- 3d Models for printing | Arrow Body.3mf and Clamp.3mf
 - *insert example picture files*
 
 ### Materials needed (per unit made):
@@ -26,7 +26,7 @@ Professor Zev Steinrock at UIUC came to me requesting a simple solution to a vis
 - Support - on (to help support hex sockets)
 
 ### Assembly
-1. Print out *both .svgs*
+1. Print out both .3mf files
 2. Glue 6-32 nuts into hex sockets - **be sure not to get glue in threads**
 3. When glue is cured, apply enamel coat to 3d printed pieces
 4. When enamel is cured, spray paint two even layers on all visable faces (if desired) | **I recommend setting screws into nuts for painting to keep paint from getting in the threads**
