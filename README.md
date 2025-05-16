@@ -5,11 +5,12 @@
 Professor Zev Steinrock at UIUC came to me requesting a simple solution to a visual tool he's incorporated when teaching his students the basics of stage combat with blades. Prof. Steinrock used hand cut cardboard arrows that would be skewered on the blades so the arrows would point towards the blade edge. Because of the time and material waste inherent in the creation of the cardboard arrows, he asked if I could come up with a simpler solution. Through basic iteration, I modeled a 3d printed arrow that contains a small rectangular window in the center and a screwdown clamp to keep a gripping medium in place. For the gripping medium, I've been using small rectangular cuts of neoprene yoga mats, though I am also trying out high friction rubber, and of course regular cardboard could be used as well. When the gripping medium wears out, it is easy to replace with another small rectangular piece. When using the neoprene and rubber, I recommend pre-punching screw holes to keep the material from jamming in the threads of the nuts.
 
 ### Included files:
-- README | README.md
+- README | [README.md](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b53a6de669d511d3e0b45057282f3c255a9eaaa4/README.md)
 - Full drawings of model and assembly | [Combat Arrow v2.pdf](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b33ad56709a9fc461572b4b7754411686f48d95c/Combat%20Arrow%20v2.pdf)
 - Fusion360 Model | [Combat Arrow Assembly v9.f3z](https://github.com/EbenAET/Stage-Combat-Arrows/blob/0b1ade3ec6ca6f517fa18b048789da9054919ed2/3d-model/Combat%20Arrow%20Assembly%20v9.f3z)
 - 3d Models for printing | [Arrow Body.3mf](https://github.com/EbenAET/Stage-Combat-Arrows/blob/0b1ade3ec6ca6f517fa18b048789da9054919ed2/3d-model/Arrow%20Body.3mf) and [Clamp.3mf](3d-model/Clamp.3mf)
 - Prototpye pictures | [Prototype image directory](images)
+- Creative Commons License | [CC-A4](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b53a6de669d511d3e0b45057282f3c255a9eaaa4/license)
 
 ### Materials needed (per unit made):
 - 3x 6-32 Hex Nuts | [McMaster Carr Item 90480A007](https://www.mcmaster.com/90480A007/)
