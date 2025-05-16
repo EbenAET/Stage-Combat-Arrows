@@ -7,9 +7,9 @@ Professor Zev Steinrock at UIUC came to me requesting a simple solution to a vis
 ### Included files:
 - README | README.md
 - Full drawings of model and assembly | [Combat Arrow v2.pdf](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b33ad56709a9fc461572b4b7754411686f48d95c/Combat%20Arrow%20v2.pdf)
-- Fusion360 Model | [Combat Arrow Assembly v9.f3z](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b33ad56709a9fc461572b4b7754411686f48d95c/Combat%20Arrow%20Assembly%20v9.f3z)
-- 3d Models for printing | [Arrow Body.3mf](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b33ad56709a9fc461572b4b7754411686f48d95c/Arrow%20Body.3mf) and [Clamp.3mf](https://github.com/EbenAET/Stage-Combat-Arrows/blob/b33ad56709a9fc461572b4b7754411686f48d95c/Clamp.3mf)
-- *insert example picture files*
+- Fusion360 Model | [Combat Arrow Assembly v9.f3z](3d-model/Combat_Arrow_Assembly_v9.f3z)
+- 3d Models for printing | [Arrow Body.3mf](3d-model/Arrow_body.3mf) and [Clamp.3mf](3d-model/Clamp.3mf)
+- Prototpye pictures | [Prototype image directory](images)
 
 ### Materials needed (per unit made):
 - 3x 6-32 Hex Nuts | [McMaster Carr Item 90480A007](https://www.mcmaster.com/90480A007/)
