@@ -21,7 +21,7 @@ Professor Zev Steinrock at UIUC came to me requesting a simple solution to a vis
 - Clear polycrylic (if paint is used)
 - Gripping medium (I used neoprene rubber)
 
-### 3d Printing Settings
+### 3d Printing Settings (PLA)
 - Layer height - 0.08
 - Ironing - All top surfaces
 - Support - on (to help support hex sockets)
@@ -37,3 +37,6 @@ Professor Zev Steinrock at UIUC came to me requesting a simple solution to a vis
 8. Compress gripping medium between arrow and clamp, install the 3 machine screws
 9. Cut a small vertical slice in the center of the medium, smaller than the blade it will be used on
 10. Skewer arrow on blade, pointing towards edge
+
+### Alternate Assembly Notes
+Depending on thickness and grippyness of gripping medium, users may have to cut two small rectangles (slightly larger than half the width of the clamping size) and overlap in center.
