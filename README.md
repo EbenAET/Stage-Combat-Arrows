@@ -40,3 +40,4 @@ Professor Zev Steinrock at UIUC came to me requesting a simple solution to a vis
 
 ### Alternate Assembly Notes
 Depending on thickness and grippyness of gripping medium, users may have to cut two small rectangles (slightly larger than half the width of the clamping size) and overlap in center.
+It is possible you may have to size up the machine screws if thickness of gripping medium is greater than what was used in the prototypes.
